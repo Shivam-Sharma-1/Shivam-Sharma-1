@@ -7,7 +7,7 @@ Frontend Web Developer. CS undergrad
 I love coding and I am always curious to learn new tech and level up my skills.
 
 * 🌍  I'm based in Bengaluru, India
-* 🧠  I'm currently learning React Router and Flutter
+* 🧠  I'm currently learning to use Firebase
 * 🤝  I'm open to collaborating on any web project which is interesting and fun to work on
 * ✉️  You can contact me at [shivamsharma77607@gmail.com](mailto:shivamsharma77607@gmail.com)
 * ⚡  Fun Fact: If overthinking was a sport then I would be in the hall of fame😶‍🌫️
