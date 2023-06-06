@@ -8,7 +8,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [shivamsharma77607@gmail.com](mailto:shivamsharma77607@gmail.com)
-* 🧠  I'm learning React Router and Flutter
+* 🧠  I'm learning Node.js and Express.js
 * 🤝  I'm open to collaborating on any web project which is interesting and fun to work on
 * ⚡  If overthinking was a sport then I would be in the hall of fame😶‍🌫️
 
