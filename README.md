@@ -17,37 +17,40 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Languages
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,java,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,c,java,python" />
 </p>
 
 #### Frameworks
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,expressjs,flutter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,tailwind,expressjs,flutter" />
 </p>
 
 #### Libraries
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,threejs,styledcomponents,zustand,redux,prisma,authjs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,threejs,styledcomponents,zustand,redux,prisma,authjs" />
 </p>
 
 #### Databases
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 #### Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,jira,vscode,idea,npm,yarn,vercel,netlify,flutterflow" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,docker,jira,vscode,idea,npm,yarn,vercel,netlify,flutterflow" />
 </p>
 
 #### Environments
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" />
 </p>
 
 <!-- <p align="left">
