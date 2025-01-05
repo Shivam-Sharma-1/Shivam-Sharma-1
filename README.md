@@ -13,6 +13,8 @@ I love coding and I am always curious to learn new tech and level up my skills.
 -   🤝  I'm open to collaborating on any web project which is interesting and fun to work on
 -   ⚡  Fun fact: If overthinking was a sport then I would be in the hall of fame😶‍🌫️
 
+![](https://komarev.com/ghpvc/?username=Shivam-Sharma-1&style=flat)
+
 ### Skills
 
 #### Languages
