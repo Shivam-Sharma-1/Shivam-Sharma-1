@@ -17,7 +17,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Languages
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,c,java,python" />
 </p>
 
 #### Frameworks
@@ -58,19 +58,19 @@ I love coding and I am always curious to learn new tech and level up my skills.
 
 <p align="left">
     <a href="https://www.dev.to/shivamsharma1" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=devto" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=devto" />
     </a>
     <a href="https://www.github.com/Shivam-Sharma-1" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
     </a>
     <a href="https://www.linkedin.com/in/shivam-sharma-605351226" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
     </a>
     <a href="https://www.twitter.com/Shivam_1_Sharma" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=twitter" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" />
     </a>
     <a href="mailto:shivamsharma77607@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=gmail" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
     </a>
 </p>
 
