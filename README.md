@@ -45,7 +45,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Tools
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,docker,jira,vscode,idea,npm,yarn,vercel,netlify,flutterflow" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,docker,jira,vscode,idea,npm,yarn,vercel,netlify,render,flutterflow" />
 </p>
 
 #### Environments
