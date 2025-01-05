@@ -29,7 +29,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Libraries
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,threejs,styledcomponents,redux,prisma" />
+    <img src="https://skillicons.dev/icons?i=react,threejs,styledcomponents,zustand,redux,prisma,authjs" />
 </p>
 
 #### Databases
@@ -41,7 +41,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,vscode,idea,npm,yarn,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,jira,vscode,idea,npm,yarn,vercel,netlify,flutterflow" />
 </p>
 
 #### Environments
